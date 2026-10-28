@@ -254,3 +254,11 @@ Use this repository's **Issues** tab. To make the analysis easier, include:
 - A screenshot, if it helps explain.
 
 Before attaching files or images, remove financial data, names, account numbers, and any personal information. Never post real backups or statements.
+
+## License and copyright
+
+Copyright © 2026 **Wiseworm**. All rights reserved.
+
+This application is provided exclusively for the personal use of end users in executable (APK) form.
+
+Copying, modifying, reverse engineering, redistributing, or commercially using any part of this project or its assets is strictly prohibited without the prior written authorization of the copyright holder.
