@@ -6,7 +6,7 @@ m.ledger is a personal accounting app for Android, built on double-entry bookkee
 
 Every entry balances to zero, nothing is erased silently, and corrections leave a trail. Instead of a loose list of expenses, you get accounting you can query, audit, and export.
 
-**For Android 8.0 or later.** Interface in Brazilian Portuguese and English.
+**For Android 14.0 or later.** Interface in Brazilian Portuguese and English.
 
 ## What you can do
 
@@ -123,7 +123,7 @@ In **Settings**, you will find three distinct features:
 
 Install the Android installation file (APK) provided by the project. If Android asks for permission to install this way, follow the instructions shown on your device.
 
-**Android 8.0 or later** is required. Everything works without a Google account and without internet. Once a day, when you open the app, it checks whether a new version exists and, if so, offers the download.
+**Android .0 or later** is required. Everything works without a Google account and without internet. Once a day, when you open the app, it checks whether a new version exists and, if so, offers the download.
 
 ### 2. Meet the starter book
 
@@ -240,9 +240,9 @@ They are learned recurrences. The app detected a fixed pattern in your reconcile
 
 The names of the suggested accounts are saved when the book is created. Changing the language changes the interface, not the names already saved, which you can rename.
 
-### Does the app work on iPhone or on versions older than Android 8.0?
+### Does the app work on iPhone or on versions older than Android 14.0?
 
-No. This version is intended for devices running Android 8.0 or later.
+No. This version is intended for devices running Android 14.0 or later.
 
 ## Report a problem or suggest an improvement
 
